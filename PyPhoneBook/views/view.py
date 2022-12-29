@@ -5,7 +5,6 @@ from models.contact import Contact
 from models.service import PhoneBookService
 import sys
 
-
 class ConsoleView:
     def __init__(self, service):
         self.service = service
