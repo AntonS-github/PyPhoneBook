@@ -3,7 +3,6 @@ from models.service import PhoneBookService
 from views.view import ConsoleView
 
 
-
 def main():
     repository = ContactsRepo()
     service = PhoneBookService(repository)

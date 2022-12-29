@@ -7,7 +7,6 @@ import os.path
 
 from config import PATH
 
-
 class WriterReaderCSV:
 
     @staticmethod
