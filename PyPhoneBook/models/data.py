@@ -5,7 +5,6 @@ from models.contact import Contact
 from utils.utils import WriterReaderCSV
 
 
-
 class ContactsRepo:
     def __init__(self):
         self.contacts_base = []
