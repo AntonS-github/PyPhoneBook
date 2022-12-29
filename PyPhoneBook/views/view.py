@@ -1,6 +1,7 @@
 """
 команды из консоли
 """
+
 from models.contact import Contact
 from models.service import PhoneBookService
 import sys

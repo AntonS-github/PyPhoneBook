@@ -2,7 +2,6 @@
 Persistence layer - Model Class
 """
 
-
 class Contact:
 
     def __init__(self, first_name, last_name, phone_numbers):
